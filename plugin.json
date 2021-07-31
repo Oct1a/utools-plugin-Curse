@@ -1,0 +1,34 @@
+{
+  "pluginName": "干它",
+  "description": "抄起键盘就是淦",
+  "author": "Oct1a_H",
+  "homepage": "http://oct1a.cn/",
+  "logo": "img/logo2.png",
+  "preload": "preload.js",
+  "features": [{
+      "code": "fuck-tender",
+      "explain": "温柔不带脏字模式",
+      "cmds": [
+        "草(一种植物)",
+        "淦",
+        "回击"
+      ]
+    },
+    {
+      "code": "fuck-en",
+      "explain": "英文骂人",
+      "cmds": [
+        "fuck",
+        "jerk"
+      ]
+    },
+    {
+      "code": "fuck-tender-menu",
+      "explain": "温柔怼人模式",
+      "cmds": [{
+        "type": "over",
+        "label": "温柔的怼它"
+      }]
+    }
+  ]
+}
